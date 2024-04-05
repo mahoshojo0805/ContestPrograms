@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "五点光滑法进行曲线拟合", "五点光滑法进行曲线拟合\五点光滑法进行曲线拟合.csproj", "{1DB663FF-DEFC-4C4F-B4EE-8181B14BC072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{23C144CF-EB0E-4E0E-8C2B-B22A3E3C06AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DB663FF-DEFC-4C4F-B4EE-8181B14BC072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB663FF-DEFC-4C4F-B4EE-8181B14BC072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB663FF-DEFC-4C4F-B4EE-8181B14BC072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB663FF-DEFC-4C4F-B4EE-8181B14BC072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C144CF-EB0E-4E0E-8C2B-B22A3E3C06AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C144CF-EB0E-4E0E-8C2B-B22A3E3C06AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C144CF-EB0E-4E0E-8C2B-B22A3E3C06AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C144CF-EB0E-4E0E-8C2B-B22A3E3C06AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6F0BD5F-98D1-4127-BF07-05DF8437F464}
+	EndGlobalSection
+EndGlobal

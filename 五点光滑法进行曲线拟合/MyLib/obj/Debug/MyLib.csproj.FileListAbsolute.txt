@@ -1,0 +1,6 @@
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\MyLib\bin\Debug\MyLib.dll
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\MyLib\bin\Debug\MyLib.pdb
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\MyLib\obj\Debug\MyLib.dll
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\MyLib\obj\Debug\MyLib.pdb

@@ -1,0 +1,13 @@
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\五点光滑法进行曲线拟合\bin\Debug\五点光滑法进行曲线拟合.exe.config
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\五点光滑法进行曲线拟合\bin\Debug\五点光滑法进行曲线拟合.exe
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\五点光滑法进行曲线拟合\bin\Debug\五点光滑法进行曲线拟合.pdb
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\五点光滑法进行曲线拟合\bin\Debug\MyLib.dll
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\五点光滑法进行曲线拟合\bin\Debug\MyLib.pdb
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\五点光滑法进行曲线拟合\obj\Debug\五点光滑法进行曲线拟合.csproj.AssemblyReference.cache
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\五点光滑法进行曲线拟合\obj\Debug\五点光滑法进行曲线拟合.Form1.resources
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\五点光滑法进行曲线拟合\obj\Debug\五点光滑法进行曲线拟合.Properties.Resources.resources
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\五点光滑法进行曲线拟合\obj\Debug\五点光滑法进行曲线拟合.csproj.GenerateResource.cache
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\五点光滑法进行曲线拟合\obj\Debug\五点光滑法进行曲线拟合.csproj.CoreCompileInputs.cache
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\五点光滑法进行曲线拟合\obj\Debug\五点光滑法进行曲线拟合.csproj.CopyComplete
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\五点光滑法进行曲线拟合\obj\Debug\五点光滑法进行曲线拟合.exe
+D:\测绘程序设计\49\五点光滑法进行曲线拟合\五点光滑法进行曲线拟合\obj\Debug\五点光滑法进行曲线拟合.pdb
