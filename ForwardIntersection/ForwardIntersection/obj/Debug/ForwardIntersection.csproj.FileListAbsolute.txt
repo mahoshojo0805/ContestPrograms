@@ -1,0 +1,13 @@
+D:\测绘程序设计\23\ForwardIntersection\ForwardIntersection\bin\Debug\ForwardIntersection.exe.config
+D:\测绘程序设计\23\ForwardIntersection\ForwardIntersection\bin\Debug\ForwardIntersection.exe
+D:\测绘程序设计\23\ForwardIntersection\ForwardIntersection\bin\Debug\ForwardIntersection.pdb
+D:\测绘程序设计\23\ForwardIntersection\ForwardIntersection\bin\Debug\MyLib.dll
+D:\测绘程序设计\23\ForwardIntersection\ForwardIntersection\bin\Debug\MyLib.pdb
+D:\测绘程序设计\23\ForwardIntersection\ForwardIntersection\obj\Debug\ForwardIntersection.csproj.AssemblyReference.cache
+D:\测绘程序设计\23\ForwardIntersection\ForwardIntersection\obj\Debug\ForwardIntersection.Form1.resources
+D:\测绘程序设计\23\ForwardIntersection\ForwardIntersection\obj\Debug\ForwardIntersection.Properties.Resources.resources
+D:\测绘程序设计\23\ForwardIntersection\ForwardIntersection\obj\Debug\ForwardIntersection.csproj.GenerateResource.cache
+D:\测绘程序设计\23\ForwardIntersection\ForwardIntersection\obj\Debug\ForwardIntersection.csproj.CoreCompileInputs.cache
+D:\测绘程序设计\23\ForwardIntersection\ForwardIntersection\obj\Debug\ForwardIntersection.csproj.CopyComplete
+D:\测绘程序设计\23\ForwardIntersection\ForwardIntersection\obj\Debug\ForwardIntersection.exe
+D:\测绘程序设计\23\ForwardIntersection\ForwardIntersection\obj\Debug\ForwardIntersection.pdb

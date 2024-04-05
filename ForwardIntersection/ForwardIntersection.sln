@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForwardIntersection", "ForwardIntersection\ForwardIntersection.csproj", "{000AFA06-233C-4264-8CC8-3907D5C69BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{0A9D0FD1-FABB-4E7B-A7F5-5711CE1E5B93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{000AFA06-233C-4264-8CC8-3907D5C69BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000AFA06-233C-4264-8CC8-3907D5C69BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000AFA06-233C-4264-8CC8-3907D5C69BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000AFA06-233C-4264-8CC8-3907D5C69BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9D0FD1-FABB-4E7B-A7F5-5711CE1E5B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9D0FD1-FABB-4E7B-A7F5-5711CE1E5B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9D0FD1-FABB-4E7B-A7F5-5711CE1E5B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9D0FD1-FABB-4E7B-A7F5-5711CE1E5B93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F688C91-EAE8-4A08-911C-B240BFAC93E2}
+	EndGlobalSection
+EndGlobal
