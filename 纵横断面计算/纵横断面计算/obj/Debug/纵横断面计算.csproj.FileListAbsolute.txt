@@ -1,0 +1,13 @@
+D:\测绘程序设计\42\纵横断面计算\纵横断面计算\bin\Debug\纵横断面计算.exe.config
+D:\测绘程序设计\42\纵横断面计算\纵横断面计算\bin\Debug\纵横断面计算.exe
+D:\测绘程序设计\42\纵横断面计算\纵横断面计算\bin\Debug\纵横断面计算.pdb
+D:\测绘程序设计\42\纵横断面计算\纵横断面计算\bin\Debug\MyLib.dll
+D:\测绘程序设计\42\纵横断面计算\纵横断面计算\bin\Debug\MyLib.pdb
+D:\测绘程序设计\42\纵横断面计算\纵横断面计算\obj\Debug\纵横断面计算.csproj.AssemblyReference.cache
+D:\测绘程序设计\42\纵横断面计算\纵横断面计算\obj\Debug\纵横断面计算.Form1.resources
+D:\测绘程序设计\42\纵横断面计算\纵横断面计算\obj\Debug\纵横断面计算.Properties.Resources.resources
+D:\测绘程序设计\42\纵横断面计算\纵横断面计算\obj\Debug\纵横断面计算.csproj.GenerateResource.cache
+D:\测绘程序设计\42\纵横断面计算\纵横断面计算\obj\Debug\纵横断面计算.csproj.CoreCompileInputs.cache
+D:\测绘程序设计\42\纵横断面计算\纵横断面计算\obj\Debug\纵横断面计算.csproj.CopyComplete
+D:\测绘程序设计\42\纵横断面计算\纵横断面计算\obj\Debug\纵横断面计算.exe
+D:\测绘程序设计\42\纵横断面计算\纵横断面计算\obj\Debug\纵横断面计算.pdb
