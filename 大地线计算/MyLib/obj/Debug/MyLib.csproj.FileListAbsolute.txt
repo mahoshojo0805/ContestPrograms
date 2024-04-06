@@ -1,0 +1,6 @@
+D:\测绘程序设计\29\大地线计算\MyLib\bin\Debug\MyLib.dll
+D:\测绘程序设计\29\大地线计算\MyLib\bin\Debug\MyLib.pdb
+D:\测绘程序设计\29\大地线计算\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+D:\测绘程序设计\29\大地线计算\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\测绘程序设计\29\大地线计算\MyLib\obj\Debug\MyLib.dll
+D:\测绘程序设计\29\大地线计算\MyLib\obj\Debug\MyLib.pdb
